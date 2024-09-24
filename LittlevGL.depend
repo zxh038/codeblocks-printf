@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1727165376 source:e:\desktop\codeblocks\lv_port_win_codeblocks-release-v8.3\main.c
+	<stdlib.h>
+	<stdio.h>
+
